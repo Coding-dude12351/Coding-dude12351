@@ -40,7 +40,7 @@ For example:*
  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/james-mkangala-42265827b)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/Coding-dude12351)
-[![Email](https://img.shields.io/badge/Email-jamesmkangala%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jamesmkangala2@gmail.com)
+
 
 
 ---
