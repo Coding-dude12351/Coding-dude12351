@@ -38,7 +38,7 @@ For example:*
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-James%20Mkangala-blue?logo=linkedin)](https://www.linkedin.com/in/james-mkangala%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB-42265827b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![LinkedIn](linkedin.com/in/james-mkangala-42265827b)
 
 ---
 
