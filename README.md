@@ -42,7 +42,7 @@ For example:*
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/Coding-dude12351)
 
 
-
+<a href="https://app.daily.dev/jamesmkangala"><img src="https://api.daily.dev/devcards/v2/bTeWcuME33xg2kaBURm4s.png?type=default&r=8nw" width="356" alt="James mkangala's Dev Card"/></a>
 ---
 
 > “I just love programming, and building things that solve real-world problems!”
